@@ -16,6 +16,184 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-[![](https://komarev.com/ghpvc/?username=santoshauz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+🛠️ Tech Stack
+AI and Product Development
+Large Language Models
+OpenAI APIs
+Prompt Engineering
+AI Agents
+Autonomous Workflows
+Retrieval-Augmented Generation
+Replit
+n8n
+REST APIs
+JSON
+Swagger / OpenAPI
+Programming and Web Development
+Python
+Java
+JavaScript
+TypeScript
+HTML
+CSS
+SQL
+React
+Node.js
+Quality Engineering and Test Automation
+Playwright
+Cypress
+Selenium
+Serenity BDD
+Postman
+REST Assured
+API Testing
+UI Automation
+Regression Testing
+Test Case Generation
+Test Data Management
+Zephyr
+Jira
+DevOps and Cloud
+Git
+GitHub
+GitHub Actions
+Jenkins
+Docker
+CI/CD
+AWS EC2
+AWS S3
+AWS Lambda
+Splunk
+Security and Integration
+OAuth 2.0
+Single Sign-On
+API Gateway
+Authentication and Authorisation
+Secure API Integration
+Product and Delivery
+Agile Delivery
+Product Implementation
+Release Management
+Release Governance
+Quality Assurance
+Stakeholder Management
+Production Validation
+Incident Management
+Continuous Improvement
+🚀 Featured Projects
+Quantix – AI Test Case Generator
+
+An AI-powered quality engineering platform that converts business requirements and user stories into structured test cases.
+
+Quantix supports test case generation for UI, API and automation scenarios, including Playwright, Cypress and Postman-ready outputs. It is designed to reduce manual test design effort and improve test coverage.
+
+Key features:
+
+AI-generated functional test cases
+Playwright and Cypress automation scenarios
+Postman API test generation
+Zephyr-compatible CSV export
+Test coverage improvement
+Daily usage controls and administration features
+
+GitHub:
+https://github.com/agentanytime365/Quantix
+
+BuyFlyt – Airline Fare Decision Engine
+
+An airline pricing decision platform that helps travellers decide whether they should buy a flight now or wait for a better price.
+
+BuyFlyt analyses recent fare movements, price volatility and historical price ranges to generate simple recommendations such as Buy, Wait or Neutral.
+
+Key features:
+
+Flight price movement analysis
+30-day minimum and maximum fare comparison
+Price Position Index
+Fare volatility measurement
+Confidence-based recommendations
+Simple traveller-friendly decision signals
+
+Website:
+https://buyflyt.com
+
+GitHub:
+Add GitHub repository link
+
+Look4Me – Community Trust Directory
+
+A community-focused local business discovery platform that helps people find trusted businesses and service providers recommended by people they know.
+
+Look4Me combines business listings, community referrals and trust signals to make local service discovery more reliable.
+
+Key features:
+
+Community-referred business listings
+Trusted local service discovery
+Business submission and onboarding
+Referral-based trust indicators
+Search by location and service category
+Community verification model
+
+Website:
+https://look4me.com.au
+
+GitHub:
+Add GitHub repository link
+
+E-Commerce Intelligence Platform
+
+An AI-assisted e-commerce solution designed to improve product discovery, customer decision-making and business operations.
+
+The platform can use AI to analyse customer requirements, recommend suitable products and automate parts of the purchasing and support journey.
+
+Potential features:
+
+AI-powered product recommendations
+Smart product search
+Customer support assistant
+Product comparison
+Personalised shopping journeys
+Order and inventory integrations
+
+GitHub:
+Add GitHub repository link
+
+Airline Digital Platform and Booking Engine
+
+Experience supporting large-scale airline booking and servicing platforms covering flight search, booking, payments, seats, upgrades, loyalty login and ancillary services.
+
+My work includes product implementation, quality engineering, release governance, production validation and coordination across business, engineering and technology teams.
+
+Key areas:
+
+Airline booking flows
+Manage Booking journeys
+Seats and upgrades
+Loyalty integration
+Payment and checkout services
+Hotels, cars and insurance ancillaries
+API and production validation
+Release readiness and governance
+
+GitHub:
+Enterprise project. Source code is not publicly available.
+
+🌱 Currently Learning
+AI product strategy
+Autonomous AI agents
+Multi-agent systems
+AI-powered workflow automation
+Retrieval-Augmented Generation
+Product analytics
+Responsible AI implementation
+Building scalable AI products
+🤝 Let’s Connect
+
+I’m interested in collaborating on AI products, aviation technology, quality engineering, test automation and practical digital solutions.
+
+I believe the best technology is not just impressive. It should solve a real problem and make someone’s life easier.
+----
+[![](https://komarev.com/ghpvc/?username=santoshauz&icon=0&color=0)](https://visitcount.itsvg.in)
